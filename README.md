@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Payal Tiwari (@payalt712)
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Java, HTML, CSS, AJAX, Bootstrap, JavaScript, JSON, MongoDb, Express.js, Node.js etc.
-- 💞️ I’m looking to collaborate on exciting projects related to web development.
+- 🌱 I’m currently learning SQL, Java, HTML, CSS, AJAX, Bootstrap, JavaScript, JSON, MongoDb, Express.js, Node.js etc.
+- 💞️ I’m looking to collaborate on exciting projects related to Web Development/ Data Analysis
 - 📫 You can reach me on mail at: payalt712@gmail.com
 
 <!---
